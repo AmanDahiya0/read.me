@@ -19,10 +19,11 @@ Hugging Face for models & spaces: huggingface.co/Amandahiya139
 
 Deployed fine-tuned transformers and interactive demos. Let's collaborate! 🤝
 
-Kaggle : https://www.kaggle.com/amandahiya139
 🌐 Connect & Collab
 X (Twitter): @aman_dahiya1 and https://x.com/aman_dahiya1
 
 Email: amandahiya2210@gmail.com
 
 LinkedIn: Let's connect! https://www.linkedin.com/in/aman-dahiya-154713300/
+
+Kaggle : https://www.kaggle.com/amandahiya139
